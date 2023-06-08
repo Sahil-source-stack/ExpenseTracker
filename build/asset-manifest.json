@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sahil-source-stack/ExpenseTracker.git/static/css/main.1783aaaa.css",
+    "main.js": "/Sahil-source-stack/ExpenseTracker.git/static/js/main.45f05961.js",
+    "index.html": "/Sahil-source-stack/ExpenseTracker.git/index.html",
+    "main.1783aaaa.css.map": "/Sahil-source-stack/ExpenseTracker.git/static/css/main.1783aaaa.css.map",
+    "main.45f05961.js.map": "/Sahil-source-stack/ExpenseTracker.git/static/js/main.45f05961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1783aaaa.css",
+    "static/js/main.45f05961.js"
+  ]
+}
